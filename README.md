@@ -1,5 +1,5 @@
 # myIPTVPlaylist
-=================
+
 **Internet Protocol television (IPTV)** is the delivery of television content over Internet Protocol (IP) networks.
 
 I've created this repo to work on my custom .m3u playlist which as on today is *tamil-centric*. I Will continue to add more channels when I find leisure. 
