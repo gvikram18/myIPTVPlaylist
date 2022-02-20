@@ -7,7 +7,7 @@ I've created this repo to work on my custom .m3u playlist which as on today is *
 I am using this custom .m3u playlist file on [Kodi](https://kodi.tv/ "Kodi"), So I will drop instructions as to how to load this playlist file to kodi.  
 
 ## PVR IPTV Simple Client 
---------------------------
+
 ![PVR IPTV simple client logo](https://kodi.tv/images/addons/matrix/pvr.iptvsimple/icon.png)
 
 **The PVR IPTV Simple Client** add-on allows loading an M3U playlist to Kodi. By loading the playlist, you can watch IPTV with thousands of channels from all around the world using the powerful live TV of Kodi. M3U is a file format for defining multimedia playlists by storing the locations of various media files.
