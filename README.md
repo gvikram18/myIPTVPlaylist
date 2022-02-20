@@ -2,7 +2,7 @@
 
 **Internet Protocol television (IPTV)** is the delivery of television content over Internet Protocol (IP) networks.
 
-I've created this repo to work on my custom .m3u playlist which as on today is *tamil-centric*. I Will continue to add more channels when I find leisure. 
+I've created this repo to work on my custom .m3u playlist which as on today is mostly *tamil language-centric*. I Will continue to add more channels when I find leisure. 
 
 I am using this custom .m3u playlist file on [Kodi](https://kodi.tv/ "Kodi"), So I will drop instructions as to how to load this playlist file to kodi.  
 
